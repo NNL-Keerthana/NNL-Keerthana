@@ -37,6 +37,9 @@
   [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](Keerthana#2865)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](nnl.keerthana@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keerthana-n-377a0b229/)
+  
+# 👀👀
+- ![](https://komarev.com/ghpvc/?username=NNL-Keerthana&color=dc143c)
 
 
 <!---
