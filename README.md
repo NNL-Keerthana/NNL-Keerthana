@@ -32,6 +32,9 @@
 # 🏆 Github Trophies:
 -  [![trophy](https://github-profile-trophy.vercel.app/?username=NNL-Keerthana&theme=darkhub)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=discord)
 
+# 🏅 Badges:
+- [![@NNL-Keerthana's Holopin board](https://holopin.io/api/user/board?user=nnl)](https://holopin.io/@nnl)
+
 # 🤝 Socials:
 - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nnl.keerthana/)
   [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](Keerthana#2865)
