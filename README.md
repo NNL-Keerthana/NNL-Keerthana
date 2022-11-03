@@ -2,9 +2,9 @@
 # 👋😁Hi!!!
 ### 🌟 This is @NNL-Keerthana!!
  - 👀 I’m interested in Full Stack Web Development
- - ⚒️ I’m currently working on IOT Projects (Arduino and Rasp Pi) 
+<!-- - ⚒️ I’m currently working on IOT Projects (Arduino and Rasp Pi) -->
  - 🌱 I wish to hone my skills in Backend (Django) and Python
- - 👯 I’m looking to collaborate on any IOT or Web Dev related projects
+ - 👯 I’m looking to collaborate on any Web Dev related projects
  - 📫 Reach me through my email: nnl.keerthana@gmail.com
 
 # 👩‍💻 Tech Stacks:
