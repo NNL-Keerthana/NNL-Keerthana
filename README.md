@@ -1,9 +1,9 @@
 
 # 👋😁Hi!!!
 ### 🌟 This is @NNL-Keerthana!!
- - 👀 I’m interested in Full Stack Web Development
- - 🌱 I wish to hone my skills in Backend (Django) and Python
- - 👯 I’m looking to collaborate on any Web Dev related projects
+ - 👀 I’m a Full Stack and Android Developer
+ - 🌱 I'm currently working on papers related to Computer Vision 
+ - 👯 I’m looking to collaborate on any opportunity to hone my skills
  - 📫 Reach me through my email: nnl.keerthana@gmail.com
  <!-- - ⚒️ I’m currently working on IOT Projects (Arduino and Rasp Pi) -->
 
@@ -14,14 +14,12 @@
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
   ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
   ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
   <!-- ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
   ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) -->
   ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
-  ![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 # 📈 Github Stats:
