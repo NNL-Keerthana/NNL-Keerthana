@@ -1,11 +1,12 @@
 
 # 👋😁Hi!!!
 ### 🌟 This is @NNL-Keerthana!!
- - 👀 I’m a Full Stack and Android Developer
- - 🌱 I'm currently working on papers related to Computer Vision 
+ - 👀 I’m a Deep Learning enthusiast
+ - ⚒️ Data Science Intern @CIMB AI Labs
+ - 🌱 Working on papers related to Computer Vision (Yolo + ViTs)
  - 👯 I’m looking to collaborate on any opportunity to hone my skills
  - 📫 Reach me through my email: nnl.keerthana@gmail.com
- <!-- - ⚒️ I’m currently working on IOT Projects (Arduino and Rasp Pi) -->
+ 
 
 # 👩‍💻 Tech Stacks:
 - ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
