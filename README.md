@@ -4,24 +4,17 @@
  - 👀 I’m a Deep Learning enthusiast
  - ⚒️ Data Science Intern @CIMB AI Labs
  - 🌱 Working on papers related to Computer Vision (Yolo + ViTs)
- - 👯 I’m looking to collaborate on any opportunity to hone my skills
+ - 👯 Looking to collaborate on any opportunity to hone my skills
  - 📫 Reach me through my email: nnl.keerthana@gmail.com
  
 
 # 👩‍💻 Tech Stacks:
-- ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-  ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-  <!-- ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-  ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) -->
-  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
-  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,r,mysql,aws,docker,firebase,react,kotlin,flutter&perline=5"/>
+    <img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tensorflow.png" alt="Tensorflow" title="TensorFlow"/>
+  </a>
+</p>
 
 # 📈 Github Stats:
 - [![GitHub stats](https://github-readme-stats.vercel.app/api?username=NNL-Keerthana&theme=radical&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
