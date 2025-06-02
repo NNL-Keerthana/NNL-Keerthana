@@ -6,6 +6,7 @@
  - 🌱 Working on papers related to Computer Vision (Yolo + ViTs)
  - 👯 Looking to collaborate on any opportunity to hone my skills
  - 📫 Reach me through my email: nnl.keerthana@gmail.com
+ - [CV](https://drive.google.com/file/d/158bnMNd5HpSW52Y6yRVNfBxXu7UI2m2o/view?usp=sharing).
  
 
 # 👩‍💻 Tech Stacks:
