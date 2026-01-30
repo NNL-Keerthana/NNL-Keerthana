@@ -2,17 +2,18 @@
 # 👋😁Hi!!!
 ### 🌟 This is @NNL-Keerthana!!
  - 👀 I’m a Deep Learning enthusiast
- - ⚒️ Data Science Intern @CIMB AI Labs
+ - ⚒️ Data Science, AI
  - 🌱 Working on papers related to Computer Vision (Yolo + ViTs)
  - 👯 Looking to collaborate on any opportunity to hone my skills
  - 📫 Reach me through my email: nnl.keerthana@gmail.com
- - [CV](https://drive.google.com/file/d/158bnMNd5HpSW52Y6yRVNfBxXu7UI2m2o/view?usp=sharing).
+
+<!--- - [CV](https://drive.google.com/file/d/158bnMNd5HpSW52Y6yRVNfBxXu7UI2m2o/view?usp=sharing). --->
  
 
 # 👩‍💻 Tech Stacks:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,r,mysql,aws,docker,firebase,react,kotlin,flutter&perline=5"/>
+    <img src="https://skillicons.dev/icons?i=py,r,mysql,sklearn,aws,azure,firebase,opencv,linkedin&perline=5"/>
     <img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tensorflow.png" alt="Tensorflow" title="TensorFlow"/>
   </a>
 </p>
