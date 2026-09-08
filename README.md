@@ -3,7 +3,7 @@
 ### 🌟 This is @NNL-Keerthana!!
  - 👀 I’m a Deep Learning enthusiast
  - ⚒️ Data Science, AI
- - 🌱 Working on papers related to Computer Vision (Yolo + ViTs)
+ - 🌱 Published related to Computer Vision, Federated Learning and Blockchain
  - 👯 Looking to collaborate on any opportunity to hone my skills
  - 📫 Reach me through my email: nnl.keerthana@gmail.com
 
